@@ -1,6 +1,3 @@
-
-Vou criar um README para o seu projeto GitHub, incluindo emojis para torná-lo mais atraente e em italiano. Lembre-se, você precisará adicionar as imagens ao seu repositório no GitHub manualmente.
-
 🌟 Pokedex
 📖 Riguardo il Progetto
 La Pokedex è un'applicazione web che permette agli utenti di esplorare e scoprire varie specie di Pokémon. L'applicazione utilizza l'API Pokémon per recuperare informazioni dettagliate su ogni Pokémon.
